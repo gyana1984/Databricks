@@ -1,0 +1,2 @@
+# Databricks
+A scalable Databricks Lakehouse project implementing Bronze–Silver–Gold architecture using Delta Lake. Includes automated ingestion, schema enforcement, PySpark transformations, and optimized Delta tables for analytics and downstream ML workloads.
