@@ -472,9 +472,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Contact
 
-**Author:** Your Name  
+**Author:** Gyana Ranjan Dash
+
 **Email:** gyana.gniit@gmail.com  
-**GitHub:** [yourusername](https://github.com/yourusername)
+**GitHub:** [gyana1984](https://github.com/gyana1984)
 
 ## 🙏 Acknowledgments
 
